@@ -7,7 +7,7 @@ public class Symbol {
     public static void main(String args[]){
 
         int A = 122;
-        int B = 61;
+        int B = 6;
         int quotient = A / B;
 
         System.out.println(A + "/" + B + "=" + quotient);
