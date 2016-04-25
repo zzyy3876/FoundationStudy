@@ -6,7 +6,7 @@ package Print;
 public class Symbol {
     public static void main(String args[]){
 
-        int A = 12;
+        int A = 122;
         int B = 6;
         int quotient = A / B;
 
