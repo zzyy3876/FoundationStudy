@@ -11,6 +11,7 @@ public class MergeSort {
         //  merge(array);
         for(int i = 0; i < array.length; i++){
             System.out.println(array[i]);
+            System.out.println(i);
         }
     }
 }
