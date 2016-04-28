@@ -7,7 +7,7 @@ package SortArray;
 
 public class MergeSort {
     public static void main(String args[]){
-        int[] array = {10, 179, 9, 1, 12, 7, 3};
+        int[] array = {10, 190, 9, 1, 12, 7, 3};
         //  merge(array);
         for(int i = 0; i < array.length; i++){
             System.out.println(array[i]);
