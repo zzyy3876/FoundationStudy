@@ -13,9 +13,10 @@ public class Stars {
         }
 
 
-        String[] wujiaoxing={"     *","    * *","* *    * *"," *      *","  *    *","    * *","     *"};
+        String[] wujiaoxing = {"     *","    * *","* *    * *"," *      *","  *    *","    * *","     *"};
         for(int i=0;i<wujiaoxing.length;i++){
             System.out.println(wujiaoxing[i]);
         }
+
     }
 }
