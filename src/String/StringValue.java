@@ -5,6 +5,11 @@
 
 package String;
 
+/**
+ * Created by zzyy3_000 on 4/14/2016.
+ * Java String type is Reference Type
+ */
+
 public class StringValue {
     public StringValue() {
     }

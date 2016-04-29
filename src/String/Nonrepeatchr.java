@@ -1,4 +1,6 @@
-package String; /**
+package String;
+
+/**
  Created by Zhengyu Zhao on 3/10/2016
  Return the first non-repeat Character in a string
  */
