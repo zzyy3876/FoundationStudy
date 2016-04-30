@@ -1,5 +1,7 @@
 package Array;
 
+import java.util.Arrays;
+
 /**
  * Created by zzyy3_000 on 4/11/2016.
  * MergeSort String Arrays (Integer Array).
