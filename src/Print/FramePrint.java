@@ -13,7 +13,7 @@ public class FramePrint {
 
         Double number = Double.parseDouble(JOptionPane.showInputDialog("what is 3/2?")); // display a textbox
 
-        if ((number - 1.5) < 0.0001) // does not make sense
+        if ((number - 2.5) < 0.0001) // does not make sense
         {
             JOptionPane.showMessageDialog(null, "Correct");
         } else {
